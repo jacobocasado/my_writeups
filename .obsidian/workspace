@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "4682004ac3dcab4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "03734ec44529c660",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "THM/junior_pentester_path/authentication_bypass/authentication_bypass.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "660bad9f33ebfba4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fab82327a6f2925a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6dfd40abe6579e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ded19a5c59eb6f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b58fbfbf0d370cd7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8c5bf75337c4bf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd0837078e025a8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1913591c5b21d9d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "THM/junior_pentester_path/authentication_bypass/authentication_bypass.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be124c1c9101ddfa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "THM/junior_pentester_path/authentication_bypass/authentication_bypass.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab53f76ab4ca01a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a834a54b7b07eca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "THM/junior_pentester_path/authentication_bypass/authentication_bypass.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "03734ec44529c660",
+  "lastOpenFiles": [
+    "THM/junior_pentester_path/subdomain_enumeration/subdomain_enumeration.md",
+    "THM/junior_pentester_path/content_discovery/automated_discovery.md",
+    "THM/junior_pentester_path/content_discovery/osint.md",
+    "THM/junior_pentester_path/content_discovery/manual_discovery.md",
+    "README.md"
+  ]
+}
